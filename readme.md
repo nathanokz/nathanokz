@@ -1,10 +1,9 @@
-### Nathan Okazaki
-
-<hr>
-
+## `Nathan Okazaki`
+```bash
 Sou estudante de Ciência da Computação e desenvolvedor em formação, aprimorando meus conhecimentos em desenvolvimento de software. Aqui você encontrará projetos que representam minha jornada de aprendizado, desde estudos e experimentos até aplicações mais completas.
+```
 
-#### Sobre mim
+### `<sobre_mim />`
 
 ▸ Estagiário de Desenvolvimento na <a href="https://www.straumann.com/neodent/br/pt/profissionais/sobre-nos.html">Neodent</a>
 
@@ -14,7 +13,7 @@ Sou estudante de Ciência da Computação e desenvolvedor em formação, aprimor
 
 ▸ Evoluindo continuamente como desenvolvedor
 
-#### Tecnologias e Ferramentas
+### `<tecnologia_ferramentas/>`
 ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white)
@@ -23,7 +22,7 @@ Sou estudante de Ciência da Computação e desenvolvedor em formação, aprimor
 ![MySQL](https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white)
 
-#### Redes Sociais
+### `<links/>`
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white)
 ![Email](https://img.shields.io/badge/nathan.okaz@gmail.com-black?style=flat-square&logo=gmail&logoColor=white)
