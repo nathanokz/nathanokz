@@ -1,4 +1,4 @@
-## Nathan Okazaki 👤
+## Nathan Okazaki
 
 Sou estudante de Ciência da Computação e desenvolvedor em formação, aprimorando meus conhecimentos em desenvolvimento de software. Aqui você encontrará projetos que representam minha jornada de aprendizado, desde estudos e experimentos até aplicações mais completas.
 
